@@ -1,0 +1,1 @@
+All shufflers need to end with the the 'deck' and 'random' params, even if they're deterministic.  They should return a shuffled deck.
